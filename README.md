@@ -67,12 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 
-#API Endpoints
+##API Endpoints
 
-http://api.coronastatistics.live/all
-http://api.coronastatistics.live/countries
-http://api.coronastatistics.live/countries?sort={parameter}
-http://api.coronastatistics.live/countries/{country_name}
-http://api.coronastatistics.live/timeline
-http://api.coronastatistics.live/timeline/global
+http://api.coronastatistics.live/all<br />
+http://api.coronastatistics.live/countries<br />
+http://api.coronastatistics.live/countries?sort={parameter}<br />
+http://api.coronastatistics.live/countries/{country_name}<br />
+http://api.coronastatistics.live/timeline<br />
+http://api.coronastatistics.live/timeline/global<br />
 http://api.coronastatistics.live/timeline/{country_name}
